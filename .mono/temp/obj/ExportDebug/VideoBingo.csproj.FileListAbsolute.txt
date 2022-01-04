@@ -1,0 +1,8 @@
+C:\Users\trvca\Documents\VideoBingo\.mono\temp\bin\ExportDebug\VideoBingo.dll
+C:\Users\trvca\Documents\VideoBingo\.mono\temp\bin\ExportDebug\VideoBingo.pdb
+C:\Users\trvca\Documents\VideoBingo\.mono\temp\obj\ExportDebug\VideoBingo.csprojAssemblyReference.cache
+C:\Users\trvca\Documents\VideoBingo\.mono\temp\obj\ExportDebug\VideoBingo.AssemblyInfoInputs.cache
+C:\Users\trvca\Documents\VideoBingo\.mono\temp\obj\ExportDebug\VideoBingo.AssemblyInfo.cs
+C:\Users\trvca\Documents\VideoBingo\.mono\temp\obj\ExportDebug\VideoBingo.csproj.CoreCompileInputs.cache
+C:\Users\trvca\Documents\VideoBingo\.mono\temp\obj\ExportDebug\VideoBingo.dll
+C:\Users\trvca\Documents\VideoBingo\.mono\temp\obj\ExportDebug\VideoBingo.pdb

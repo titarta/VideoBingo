@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/mixkit-space-coin-win-notification-271.wav-56df62e5cd9fe19d32536232e975708f.sample"
+
+[deps]
+
+source_file="res://Sounds/mixkit-space-coin-win-notification-271.wav"
+dest_files=[ "res://.import/mixkit-space-coin-win-notification-271.wav-56df62e5cd9fe19d32536232e975708f.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
